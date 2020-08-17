@@ -19,7 +19,11 @@ UI Clone - Discord
 ## Participants
 
 | [<img src="https://avatars3.githubusercontent.com/u/43258815?v=4" width="75px;"/>](https://github.com/vmnog) |
+<<<<<<< HEAD
 | :----------------------------------------------------------------------------------------------------------: |
+=======
+| :--------------------------------------------------------------------------------: |
+>>>>>>> 5ecb5b6baec769edacdf43e63192e289d5f3ecc5
 
 
 | [Victor Nogueira](https://github.com/vmnog)
