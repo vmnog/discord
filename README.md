@@ -18,7 +18,7 @@ UI Clone - Discord
 
 ## Participants
 
-| [<img src="http://github.com/vmnog.png" width="75px;"/>](https://github.com/vmnog) |
+| [<img src="https://avatars3.githubusercontent.com/u/43258815?v=4" width="75px;"/>](https://github.com/vmnog) |
 | :--------------------------------------------------------------------------------: |
 
 
