@@ -10,7 +10,7 @@ interface Props {
 const ChannelButton: React.FC<Props> = ({ channelName, selected }) => {
   return (
     <Container className={selected ? "active" : ""}>
-      <div>
+      <div className="server">
         <HashtagIcon />
         <span>{channelName}</span>
       </div>

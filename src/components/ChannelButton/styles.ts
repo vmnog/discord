@@ -42,6 +42,10 @@ export const Container = styled.div`
   > div svg {
     display: none;
   }
+
+  > div.server svg {
+    display: inline;
+  }
 `;
 
 export const HashtagIcon = styled(Hashtag)`
