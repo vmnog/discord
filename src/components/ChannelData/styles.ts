@@ -18,7 +18,7 @@ export const Messages = styled.div`
   flex-direction: column;
 
   max-height: calc(
-    100vh - -46px -68px
+    100vh - 46px - 68px
   ); /* altura da tela - ChannelInfo - InputWrapper */
 
   overflow-y: scroll;
@@ -63,7 +63,7 @@ export const Input = styled.input`
     position: relative;
     top: -50%;
     left: 14px;
-    /* transition: 180ms ease-in-out; */
+    transition: 180ms ease-in-out;
   }
 `;
 
