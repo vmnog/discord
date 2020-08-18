@@ -22,6 +22,8 @@ UI Clone - Discord
 
 | [Victor Nogueira](https://github.com/vmnog)
 
+![Desktop Screenshot](desktop_screenshot.PNG?raw=true "Desktop Screenshot")
+
 ## Techs
 
 - [x] React.js
