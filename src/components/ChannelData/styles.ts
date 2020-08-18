@@ -55,6 +55,8 @@ export const Input = styled.input`
 
   background-color: var(--chat-input);
 
+  position: relative;
+
   &::placeholder {
     color: var(--gray);
   }

@@ -48,7 +48,7 @@ export const Message = styled.div`
 `;
 
 export const Header = styled.div`
-  dispaly: flex;
+  display: flex;
   align-items: center;
 
   > strong {
