@@ -9,9 +9,9 @@ UI Clone - Discord
 
 ## Participants
 
-| [<img src="https://avatars3.githubusercontent.com/u/43258815?v=4" width="75px;"/>](https://github.com/vmnog) |
+[<img src="https://avatars3.githubusercontent.com/u/43258815?v=4" width="75px;"/>](https://github.com/vmnog)
 
-| [Victor Nogueira](https://github.com/vmnog)
+ [Victor Nogueira](https://github.com/vmnog)
 
 ![Desktop Screenshot](./assets/desktop_screenshot.PNG?raw=true "Desktop Screenshot")
 
