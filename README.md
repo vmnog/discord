@@ -5,7 +5,6 @@ UI Clone - Discord
 <p align="center">Discord UI Clone (partial) for study purposes.</p>
 <h3 align="center">Check the live demo <a href="https://vmnog-discord.netlify.app/">here</a>.</h3>
 
-<hr>
 
 ## Participants
 
